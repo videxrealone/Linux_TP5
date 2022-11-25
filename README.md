@@ -53,7 +53,7 @@
 
 * **q4**
 
-![image](https://user-images.githubusercontent.com/91763346/204013196-2084e55c-7b06-4b12-810f-34f59f21d349.png)
+![image](https://user-images.githubusercontent.com/91763346/204013497-937ea251-fe4c-40ee-a998-3e0f2787a801.png)
 
 
 * **q5**
