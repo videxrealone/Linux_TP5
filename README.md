@@ -97,6 +97,63 @@ archives ainsi téléchargées. Résoudre les questions suivantes à l’aide de
 ![image](https://user-images.githubusercontent.com/91763346/205158877-b336d892-51c3-46b6-9e7a-c0e6c0556630.png)
 
 
+## Exercice 4: Redirections & Pipes
+
+* **Accèdez à tp5 et créez un fichier bonjour.txt en utilisant la commande
+echo Bonjour > bonjour.txt.**
+
+![image](https://user-images.githubusercontent.com/91763346/205160346-383319e0-c88e-4b37-8c73-9de3b924a03a.png)
+
+* **Afficher le contenu de bonjour.txt par la commande cat.**
+
+![image](https://user-images.githubusercontent.com/91763346/205160374-743605ad-379d-4530-8d98-5c9f65379200.png)
+
+* **Taper > bonjour.txt, que fait cette commande ?**
+
+![image](https://user-images.githubusercontent.com/91763346/205160444-a7747d13-d2a3-4918-b172-cde0b98170a9.png)
+
+* **Quelle différence entre les 2 lignes de commandes suivantes ?**
+
+```
+echo Bonjour > bonjour . txt ; echo Bonjour > bonjour . txt
+echo Bonjour > bonjour . txt ; echo Bonjour >> bonjour . txt
+
+```
+La premiere ( > ) va écraser le contenu du fichier bonjour.txt
+la deuxieme ( >> ) va appender le mot "Bonjour" et ne va pas écraser le contenu du bonjour.txt
+
+* **Redirigez la sortie de la commande ls -l dans le fichier sortie.**
+
+![image](https://user-images.githubusercontent.com/91763346/205161072-e84c3f21-9aa6-4d3d-8f5b-5153000de90c.png)
+
+* **Créez dans le même repertoire 10 fichiers fich1, . . ., fich10.**
+
+![image](https://user-images.githubusercontent.com/91763346/205161663-50e537da-1e43-48cb-b0e5-5dd0723a3374.png)
+
+
+* **Redirigez l’entrée de la commande grep sur le fichier sortie afin que grep affiche les lignes correspondant à fich2, fich4, fich8.**
+
+![image](https://user-images.githubusercontent.com/91763346/205164168-01acb05a-a631-40a5-bdb1-90ee543a69b1.png)
+
+* **Répétez la question précédente, mais cette fois en faisant une redirection de la sortie de grep dans le fichier sortie (sans écrasement du contenu de ce dernier).**
+
+![image](https://user-images.githubusercontent.com/91763346/205164319-40daf1a5-4e78-4e89-bbef-7ddf02c3cf42.png)
+
+* **Lancez la ligne de commande ls -l /dev .**
+
+![image](https://user-images.githubusercontent.com/91763346/205164417-91c6374d-43ee-4e21-aeec-cafa9d337b0a.png)
+
+* **À l’aide des tubes (ou pipe : | ) affichez le nombre de fichiers et répertoires de /dev.**
+
+![image](https://user-images.githubusercontent.com/91763346/205164541-5260e652-c337-4be0-b0fa-a3d3bb0018eb.png)
+
+* **Affichez le nombre de fichiers (sans les répertoires) de /dev.**
+
+![image](https://user-images.githubusercontent.com/91763346/205165542-ff1a107d-d72d-4f6b-9a25-2bfc6c2e2e3f.png)
+
+* **Affichez le nombre de fichiers, puis le nombre de liens symboliques dans le répertoire /bin.**
+
+![image](https://user-images.githubusercontent.com/91763346/205166389-060935e8-66f7-4911-8285-fb2f26ccd01d.png)
 
 
 
