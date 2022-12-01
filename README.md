@@ -62,16 +62,39 @@
 
 ## Exercice 3: La commande GREP.
 Téléchargez les archives Germinal.zip et Poesies.zip dans tp_grep. Décompressez les
-archives ainsi téléchargées. Résoudre les questions suivantes à l’aide de la commande grep :
+archives ainsi téléchargées. Résoudre les questions suivantes à l’aide de la commande grep.
 
+* **q1**
 
+![image](https://user-images.githubusercontent.com/91763346/205153662-08a85258-52c3-4aa5-b4a1-8df3209a57d0.png)
 
+* **q2**
 
+![image](https://user-images.githubusercontent.com/91763346/205153917-c24055bc-fc4f-484b-ba99-f679f1901d87.png)
 
+* **q3**
 
+![image](https://user-images.githubusercontent.com/91763346/205154923-b6808b9d-5f91-46a8-8a6f-fd97b2e69786.png)
 
+* **q4**
 
+![image](https://user-images.githubusercontent.com/91763346/205155443-7001e648-cd3d-4f2c-ba70-2c15af2b97d0.png)
 
+* **q5**
+
+![image](https://user-images.githubusercontent.com/91763346/205157308-d89966da-a8f1-44b3-9f58-ae552bf3f01e.png)
+
+* **q6**
+
+![image](https://user-images.githubusercontent.com/91763346/205158305-bb4787ab-4e8d-427e-9078-9a243464bc10.png)
+
+* **q7**
+
+![image](https://user-images.githubusercontent.com/91763346/205158459-5bdec386-0403-4fc7-8c62-49844d02939d.png)
+
+* **q8**
+
+![image](https://user-images.githubusercontent.com/91763346/205158877-b336d892-51c3-46b6-9e7a-c0e6c0556630.png)
 
 
 
